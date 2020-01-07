@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../LaraAdmin">
+      <sourceFolder url="file://$MODULE_DIR$/../LaraAdmin/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/classpreloader/classpreloader" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/jeremeamia/superclosure" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/kylekatarnls/update-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/mtdowling/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/phpunit-mock-objects" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/polyfill-php56" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/polyfill-util" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
