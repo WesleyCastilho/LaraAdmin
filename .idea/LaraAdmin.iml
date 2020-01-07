@@ -5,9 +5,14 @@
       <sourceFolder url="file://$MODULE_DIR$/../LaraAdmin/app" isTestSource="false" packagePrefix="App\" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/classpreloader/classpreloader" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/creativeorange/gravatar" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/doctrine/event-manager" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/doctrine/inflector" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/dwij/laraadmin" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/fzaninotto/faker" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/hamcrest/hamcrest-php" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/jakub-onderka/php-console-color" />
@@ -15,7 +20,10 @@
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/jeremeamia/superclosure" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/kylekatarnls/update-helper" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/laravelcollective/html" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/league/fractal" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/maatwebsite/excel" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/mockery/mockery" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/mtdowling/cron-expression" />
@@ -25,6 +33,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpdocumentor/reflection-common" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpdocumentor/reflection-docblock" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpoffice/phpexcel" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpspec/prophecy" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/php-code-coverage" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/phpunit/php-file-iterator" />
@@ -42,6 +51,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/global-state" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/recursion-context" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/spatie/db-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/spatie/laravel-backup" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/swiftmailer/swiftmailer" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/console" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/css-selector" />
@@ -60,8 +71,11 @@
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/translation" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/var-dumper" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/tijsverkoyen/css-to-inline-styles" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/yajra/laravel-datatables-oracle" />
+      <excludeFolder url="file://$MODULE_DIR$/../LaraAdmin/vendor/zizaco/entrust" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
